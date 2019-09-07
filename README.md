@@ -2,7 +2,7 @@
 
 <h2>¡Visita la pagina!</h2>
 
-<a href="rayamela.glitch.me" target="_blank">Rayamela</a>
+<a href="https://rayamela.glitch.me" target="_blank">Rayamela</a>
 
 <h2>En este documento podrás leer que puedes y no puedes hacer con mi proyecto.</h2>
 
