@@ -2,9 +2,9 @@
 
 <h2>¡Visita la pagina!</h2>
 
-<a href="#">Rayamela</a>
+<a href="rayamela.glitch.me" target="_blank">Rayamela</a>
 
-<h2>En este documento podrás leerque puedes y no puedes hacer con mi proyecto.</h2>
+<h2>En este documento podrás leer que puedes y no puedes hacer con mi proyecto.</h2>
 
 <h1 style="font-weight:bold">¿Puedo copiar y pegar código?</h1>
 <h2>No. No me molesta que revises mi trabajo y que lo uses para mejorar, pero no puedes usar mi mismo código.</h2>
